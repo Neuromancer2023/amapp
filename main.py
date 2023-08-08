@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import babel
 from babel.numbers import format_currency
 import locale
 
